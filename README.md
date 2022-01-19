@@ -11,3 +11,4 @@ const CONFIG = {
     reply: 'yêu thì yêu mà không yêu thì yêu <3333333 ',
     mess: ' chỉ biết nói câu yêu cậu ',
     messLink; 'https://www.messenger.com/t/100027239040693
+}
